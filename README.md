@@ -16,7 +16,7 @@ PyTorch implementation of aspect-based sentiment analysis with graph convolution
 
 
 ## Citation
-
+Please use the following bib entry to cite the reference paper.
 ```
 @article{zunic2021aspect,
   title={Aspect-based sentiment analysis with graph convolution over syntactic dependencies},
