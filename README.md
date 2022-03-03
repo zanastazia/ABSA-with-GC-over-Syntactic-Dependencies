@@ -13,3 +13,16 @@ PyTorch implementation of aspect-based sentiment analysis with graph convolution
 * [Hamilton W.L, Ying R, Leskovec J. Inductive Representation Learning on Large Graphs. NIPS, 2017.](https://papers.nips.cc/paper/2017/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf)
 * [Early Stopping for PyTorch](https://github.com/Bjarten/early-stopping-pytorch)
 * [Chen D, Manning CD. A fast and accurate dependency parser using neural networks. InProceedings of the 2014 conference on empirical methods in natural language processing (EMNLP) 2014 Oct (pp. 740-750).](https://www.aclweb.org/anthology/D14-1082.pdf)
+
+
+## Citation
+
+@article{zunic2021aspect,
+  title={Aspect-based sentiment analysis with graph convolution over syntactic dependencies},
+  author={{\v{Z}}uni{\'c}, Anastazia and Corcoran, Padraig and Spasi{\'c}, Irena},
+  journal={Artificial Intelligence in Medicine},
+  volume={119},
+  pages={102138},
+  year={2021},
+  publisher={Elsevier}
+}
