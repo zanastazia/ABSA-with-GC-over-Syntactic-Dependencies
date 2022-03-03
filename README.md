@@ -16,7 +16,8 @@ PyTorch implementation of aspect-based sentiment analysis with graph convolution
 
 
 ## Citation
-'''
+
+```
 @article{zunic2021aspect,
   title={Aspect-based sentiment analysis with graph convolution over syntactic dependencies},
   author={{\v{Z}}uni{\'c}, Anastazia and Corcoran, Padraig and Spasi{\'c}, Irena},
@@ -26,4 +27,5 @@ PyTorch implementation of aspect-based sentiment analysis with graph convolution
   year={2021},
   publisher={Elsevier}
 }
-'''
+```
+
